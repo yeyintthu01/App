@@ -25,7 +25,6 @@ class ItemFactory extends Factory
             'address' => fake()->sentence(),
             'body' => fake()->paragraph(),
             'price'=> fake()->numberBetween(1,100),
-            // 'user_id'=>User::factory()
         ];
     }
 }

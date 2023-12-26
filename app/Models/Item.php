@@ -12,9 +12,4 @@ class Item extends Model
 
     protected $guared=[];
 
-
-    // public function user()
-    // {
-    //     return $this->belongsTo(User::class);
-    // }
 }

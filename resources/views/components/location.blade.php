@@ -16,14 +16,6 @@
 
 <div id="map"></div>
 
-<!-- <form id="locationForm">
-  <div class="mb-3">
-    <label for="locationInput" class="form-label">Selected Location:</label>
-    <input type="text" class="form-control" id="locationInput" name="location" readonly>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form> -->
-
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-locationpicker/dist/location-picker.js"></script>
 

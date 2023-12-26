@@ -9,11 +9,3 @@
     </nav>
     <h1 class="text-center mt-5">Hello</h1>
 </x-layout>
-
-    
-
-    
-    <!-- <script src="https://cdn.ckbox.io/CKBox/2.3.1/ckbox.js"></script>
-		<script src="/cked/ckeditor.js"></script>
-		<script src="configuration-dialog/configuration-dialog.js"></script>
-		<script src="script.js"></script> -->
