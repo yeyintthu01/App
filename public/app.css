@@ -1,0 +1,9 @@
+a {
+    text-decoration : none;
+    color : purple
+}
+ button {
+    border-radius: 7px;
+    width: 150px;
+    height: 40px;
+ }
